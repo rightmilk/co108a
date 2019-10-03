@@ -17,4 +17,7 @@ CHIP Mux4Way16 {
 
     PARTS:
     // Put your code here:
+    Nand(a=in, b=in, out=out);
+    
+
 }
